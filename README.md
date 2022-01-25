@@ -8,5 +8,5 @@ Compile using Go: go build comments.go. Use burp to find and export comments (co
 Compile using: go build dirspray.go.
 <br>
 This application takes two arguments:
-<ul><URL LIST FILE>: A list of URLs to attack</ul>
+<URL LIST FILE>: A list of URLs to attack
   
