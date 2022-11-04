@@ -9,4 +9,6 @@ Compile using: go build dirspray.go.
 <br>
 This application takes two arguments:
 '<URL LIST FILE>': A list of URLs to attack
-  
+  <br>
+  <h2>proxspray.go</h2>
+Compile using: go build proxspray.go
