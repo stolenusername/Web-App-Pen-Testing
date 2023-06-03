@@ -13,7 +13,7 @@ This application takes two arguments: The URL list to attack and the discovery l
 Compile using: go build proxspray.go
 This application takes one argument - the list of domains to attack. The application then tries to proxy traffic through those sites. This came about because I noticed certain installations of nginx and Apache allowed proxying through the server due to a misconfiguration.
 <br>
-## CoWitness
+<h2>CoWitness</h2>
 
 CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
 
