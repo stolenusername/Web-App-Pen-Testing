@@ -9,8 +9,4 @@ Compile using: go build dirspray.go.
 <br>
 This application takes two arguments: The URL list to attack and the discovery list. The application then enumerates the list of targets with a single discovery list. This is good for Cloud Penetration testing when you have an idea of what you are looking for at scale across multiple targets.
   <br>
-  <h2>proxspray.go</h2>
-Compile using: go build proxspray.go
-This application takes one argument - the list of domains to attack. The application then tries to proxy traffic through those sites. This came about because I noticed certain installations of nginx and Apache allowed proxying through the server due to a misconfiguration.
-<br>
 
